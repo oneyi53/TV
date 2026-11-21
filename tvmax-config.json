@@ -3,6 +3,15 @@
   "wallpaper": "https://raw.githubusercontent.com/wushisan5353/TV/fongmi/wallpaper.jpg",
   "sites": [
     {
+      "key": "csp_douban",
+      "name": "🌕┃豆瓣┃热播",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
       "key": "torrentclaw_catalog",
       "name": "🦀┃Claw┃片单",
       "type": 3,
