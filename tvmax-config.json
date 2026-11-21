@@ -1053,60 +1053,6 @@
       "ext": "https://raw.liucn.cc/box/libs/js/555.js"
     },
     {
-      "key": "dr_iqiyi",
-      "name": "🥝┃爱奇异(官)",
-      "type": 3,
-      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
-      "ext": "https://raw.liucn.cc/box/libs/js/iqiyi.js",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "dr_youku",
-      "name": "🥔┃优酷(官)",
-      "type": 3,
-      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
-      "ext": "https://raw.liucn.cc/box/libs/js/youku.js",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "dr_qq",
-      "name": "🐧┃腾讯(官)",
-      "type": 3,
-      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
-      "ext": "https://raw.liucn.cc/box/libs/js/qq.js",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "dr_mgtv",
-      "name": "🥭┃芒果(官)",
-      "type": 3,
-      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
-      "ext": "https://raw.liucn.cc/box/libs/js/mgtv.js",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "dr_搜狗",
-      "name": "🚛┃搜狗(官)",
-      "type": 3,
-      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
-      "ext": "https://raw.liucn.cc/box/libs/js/caigou.js",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "dr_360影视",
-      "name": "📺┃360(官) ",
-      "type": 3,
-      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
-      "ext": "https://raw.liucn.cc/box/libs/js/360.js",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "dr_奇珍异兽",
       "name": "🦍┃奇珍┃异兽",
       "type": 3,
