@@ -12,6 +12,16 @@
       "filterable": 0
     },
     {
+      "key": "torrentclaw_catalog",
+      "name": "🦀┃Claw┃片单",
+      "type": 3,
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/wushisan5353/TV@fongmi/torrentclaw-catalog-v1.2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
       "key": "csp_KungFu404",
       "name": "🔥┃设置Token",
       "type": 3,
